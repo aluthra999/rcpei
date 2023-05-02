@@ -1,2 +1,25 @@
-# Royal Cleaners
-A demo website I created for a dummy cleaning company called "Royal Cleaners". I made this using HTML, CSS and Bootstrap v5.3
+# Royal Cleaners.
+## It is a dummy company, made this project using bootstrap v5.3. It's my first project using bootstrap.
+
+![Royal Cleaners](./images/github.png)
+
+## Welcome! 👋
+## Something about the company
+
+Royal Cleaners is a professional cleaning company that offers a wide range of services to meet all of your cleaning needs. Whether you need your home, office, or car cleaned, we've got you covered. Our team of experienced cleaners are dedicated to providing the highest quality service, using only non-harmful, organic cleaning products.
+
+We offer residential and commercial cleaning services, so you can trust us to clean your home or office to the highest standard. Our services also include auto cleaning and detailing, whether it's at your home or in your garage. We take great care in cleaning and detailing your vehicle to make it look like new again.
+
+In addition to our cleaning services, we also offer landscaping and lawn mowing services to keep your outdoor spaces looking beautiful. We take pride in keeping your property looking its best.
+
+At Royal Cleaners, we understand the importance of a clean environment, and we are committed to providing our customers with the best cleaning service possible. We may be new, but we are extremely professional and dedicated to ensuring your satisfaction. Contact us today to schedule your cleaning service and experience the Royal Cleaners difference.
+
+## Upcoming features
+
+TinDog will have a variety of features to help you find the perfect match. You can filter your search results by age, breed, and activity level, and even see which dogs are currently online and available to chat. And where your dog can go on a date, TinDog will have a list of local dog-friendly (date-friendly) spots to check out.
+
+## Got feedback?
+
+I'll love to receive feedback! I'm always looking to improve. So if you have anything you'd like to mention, please send me a message.
+
+**Have fun!** ❤️
