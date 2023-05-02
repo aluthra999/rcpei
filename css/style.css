@@ -1,0 +1,260 @@
+/* wrap section start*/
+.wrap {
+    background-color: #ed1c24;
+    /* background: linear-gradient(to bottom, royalblue, gold, white); */
+    color: #fff;
+}
+
+.wrap div {
+    display: inline;
+}
+
+.timing {
+    margin-left: 80px;
+}
+
+.info {
+    float: right;
+    margin-right: 70px;
+}
+
+.mail-icon,
+.number,
+.clock-icon {
+    margin: 0 4px;
+}
+
+/* wrap section end */
+
+/* navbar start */
+.navbar {
+    margin: 10px 50px 0;
+}
+
+.navbar-brand {
+    font-weight: 900;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* navbar end */
+
+
+/* title section start */
+/* .carousel-caption {
+    
+} */
+
+.title h1 {
+    text-transform: uppercase;
+    padding-bottom: 150px;
+    font-weight: 900;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ed1c24;
+    text-shadow: 2px 2px 4px rgb(255, 255, 255);
+    letter-spacing: 3px;
+}
+
+.title img {
+    opacity: 50%;
+}
+
+/* title section end */
+
+/* quote form start */
+.quote-form {
+    position: relative;
+    z-index: 1;
+    bottom: 10px;
+    width: 80%;
+    left: 10%;
+    background-color: #ed1c24;
+    color: white;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+/* Default styling for all input tags */
+.quote-form input {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+}
+
+/* Styling for specific input types */
+input[type="submit"],
+input[type="button"] {
+    background-color: #66BFBF;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover,
+input[type="button"]:hover {
+    background-color: #FFDAB9;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="tel"] {
+    height: 40px;
+}
+
+input[type="checkbox"],
+input[type="radio"] {
+    margin-right: 5px;
+}
+
+input:focus {
+    outline: none;
+    border-color: #FFDAB9;
+}
+
+.submit {
+    width: 140px;
+}
+
+/* quote form end */
+
+/* about section start */
+.about {
+    margin: 5%;
+}
+.about-us {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 3rem;
+    margin: 10px auto;
+    font-family: 'Open Sans', sans-serif;
+    color: #333;
+    /* text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); */
+}
+
+.team-2 {
+    width: 25%;
+    border-radius: 30%;
+    float: left;
+    margin-right: 30px;
+}
+
+/* about section end */
+
+/* footer start */
+.contact {
+    background-color: #ed1c24;
+    color: #fff;
+    opacity: 80%;
+}
+/* footer end */
+
+/* jump to top start */
+.topbtn {
+    position: fixed;
+    right: 2%;
+    bottom: 10%;
+    width: 30px;
+    height: 30px;
+    background: #ed1c24;
+    counter-reset: #fff;
+    cursor: pointer;
+    border-radius: 80%;
+}
+/* jump to top end */
+
+/* testimonials section start */
+.testimonials {
+    background-color: #ed1c24;
+    text-align: center;
+}
+
+.testimonials h4 {
+    letter-spacing: 1px;
+    color: #fff;
+    font-weight: normal;
+}
+
+.testimonial-image {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+.carousel-testimonials {
+    padding: 7% 15%;
+}
+/* testimonials section end */
+
+/* services section start */
+.services i {
+    padding: 7px 10px 0 0;
+}
+
+.services li {
+    text-transform: capitalize;
+}
+/* services section end */
+
+/* custom scroll bar start */
+::-webkit-scrollbar {
+    width: 12px;
+}
+
+::-webkit-scrollbar-track {
+    background: #333;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #ed1c24;
+}
+
+/* custom scroll bar end */
+
+/* Responsive */
+@media (max-width: 767px) {
+
+    .submit,
+    .county {
+        margin-top: 10px;
+    }
+}
+
+@media (max-width: 991px) {
+    .wrap {
+        font-size: x-small;
+    }
+
+    .timing,
+    .info {
+        margin: 0;
+    }
+
+    .navbar {
+        margin: 0;
+    }
+
+    .navbar-nav {
+        padding: 0;
+        text-align: center;
+    }
+
+    .dropdown-menu {
+        text-align: center;
+    }
+
+    .submit {
+        width: 100%;
+    }
+
+    .testimonials h4 {
+        font-size: 0.9rem;
+    }
+
+    .title h1 {
+        padding-bottom: 0px;
+    }
+}
