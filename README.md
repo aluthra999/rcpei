@@ -14,9 +14,9 @@ In addition to our cleaning services, we also offer landscaping and lawn mowing 
 
 At Royal Cleaners, we understand the importance of a clean environment, and we are committed to providing our customers with the best cleaning service possible. We may be new, but we are extremely professional and dedicated to ensuring your satisfaction. Contact us today to schedule your cleaning service and experience the Royal Cleaners difference.
 
-## Upcoming features
+## Features to add - working on it
 
-TinDog will have a variety of features to help you find the perfect match. You can filter your search results by age, breed, and activity level, and even see which dogs are currently online and available to chat. And where your dog can go on a date, TinDog will have a list of local dog-friendly (date-friendly) spots to check out.
+I am now working on the forms and a online store. Still a lot to learn.
 
 ## Got feedback?
 
